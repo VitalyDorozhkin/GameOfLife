@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="androtest">
+    <output-path>$PROJECT_DIR$/out/artifacts/androtest</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyStoreUrl" value="file://" />
+      </options>
+    </properties>
+    <root id="archive" name="androtest.apk" />
+  </artifact>
+</component>
