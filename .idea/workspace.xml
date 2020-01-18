@@ -2,12 +2,63 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="androtest" />
+      <artifact name="GameOfLife:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d69d9dd8-187d-441d-8622-6fe563839bed" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d69d9dd8-187d-441d-8622-6fe563839bed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figures/.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/GameOfLife.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/13 Gliders.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/64 Squares.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/7 sticks.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/8.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Cell.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Clam.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Double Ping-Pong.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Firework.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Froggy.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Glider Bounser.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Glider gun.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Glider.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Heavy- weight spaceship.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Light- weight spaceship.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Middle- weight spaceship.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Migration Team.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Pawn.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Ping-Pong.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Pulsar creator.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Pulsar.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Square.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Stick.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/Trilobite.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/heard.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Game Of Life/figures/r.figure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$BackListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$BackListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$BtnNewFigureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$BtnNewFigureListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$BtnRunListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$BtnRunListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$GraphicsPanelListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$GraphicsPanelListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$GraphicsPanelListenerAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$GraphicsPanelListenerAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$InsertListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$InsertListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$LinesListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$LinesListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$MainWindowsListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$MainWindowsListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$PauseListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$PauseListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$RadioListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$RadioListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$RestartListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$RestartListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$ReverseListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$ReverseListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$RotateListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$RotateListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$SaveListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$SaveListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$SliderListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$SliderListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$StepListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController$StepListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeMVC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/GameOfLifeMVC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/META-INF/GameOfLife.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameOfLifeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameOfLifeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameOfLifeMVC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameOfLifeMVC.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +71,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TyYoiw0HpWXwYemCi6xND879vJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -33,18 +96,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\doroz\OneDrive\Рабочий стол\GameOfLife\src\images" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="GameOfLifeMVC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -60,6 +111,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,7 +133,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574433978997</updated>
+      <workItem from="1579366066331" duration="3192000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1250" height="278" key="GridCell.Tab.0.bottom" timestamp="1579369504919">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1250" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1579369504919" />
+    <state width="1250" height="278" key="GridCell.Tab.0.center" timestamp="1579369504919">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1250" height="278" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1579369504919" />
+    <state width="1250" height="278" key="GridCell.Tab.0.left" timestamp="1579369504919">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1250" height="278" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1579369504919" />
+    <state width="1250" height="278" key="GridCell.Tab.0.right" timestamp="1579369504919">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1250" height="278" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1579369504919" />
   </component>
 </project>

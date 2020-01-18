@@ -2,5 +2,26 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/figures" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/13 Gliders.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/64 Squares.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/7 sticks.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/8.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Cell.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Clam.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Double Ping-Pong.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Froggy.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Glider Bounser.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Glider gun.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Glider.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Heavy- weight spaceship.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Light- weight spaceship.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Middle- weight spaceship.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Ping-Pong.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Pulsar.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Square.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Stick.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/Trilobite.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/heard.figure" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/GameOfLife_jar/figures/r.figure" charset="windows-1251" />
   </component>
 </project>

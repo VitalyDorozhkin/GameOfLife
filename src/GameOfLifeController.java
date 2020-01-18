@@ -7,6 +7,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
+import java.net.URISyntaxException;
 import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicBoolean;
 
@@ -19,9 +20,9 @@ public class GameOfLifeController {
     private AtomicBoolean drawLines;
     private int timeout;
     private Thread mainThread;
+    private String filePath = GameOfLifeController.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath().replace("GameOfLife.jar","figures");
 
-
-    public GameOfLifeController(GameOfLifePreView preView) {
+    public GameOfLifeController(GameOfLifePreView preView) throws URISyntaxException {
         this.preView = preView;
 
         this.preView.addBtnRunListener(new BtnRunListener());
@@ -59,8 +60,8 @@ public class GameOfLifeController {
                 mainView.addReverseListener(new ReverseListener());
                 mainView.addInsertListener(new InsertListener());
 
-
-                File folder = new File("./figures");
+                System.out.println(filePath);
+                File folder = new File(filePath);
                 String[] files = folder.list((folder1, name) -> name.endsWith(".figure"));
                 if(files != null){
                     for ( String fileName : files ) {
@@ -364,7 +365,7 @@ public class GameOfLifeController {
         public void actionPerformed(ActionEvent e) {
             String name = addFigureView.getName();
             try {
-                File dir = new File("./figures");
+                File dir = new File(filePath);
                 if(!dir.exists()){
                     dir.mkdir();
                 }

@@ -1,9 +1,9 @@
 import java.io.*;
+import java.net.URISyntaxException;
 
 public class GameOfLifeMVC {
 
-    public static void main(String[] args) {
-
+    public static void main(String[] args) throws URISyntaxException {
         GameOfLifePreView preView = new GameOfLifePreView();
         GameOfLifeController controller = new GameOfLifeController(preView);
         preView.setVisible(true);
@@ -87,7 +87,7 @@ public class GameOfLifeMVC {
         };
 
         try {
-            File dir = new File("./figures");
+            File dir = new File(new File("").getAbsolutePath() + "/figures");
             if(!dir.exists()){
                 dir.mkdir();
             }
